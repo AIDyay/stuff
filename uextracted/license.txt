@@ -1,0 +1,11 @@
+Model Information:
+* title:	UNDERPOLY: Free Generic Hovercraft
+* source:	https://sketchfab.com/3d-models/underpoly-free-generic-hovercraft-46805762e91049b6ab20a737728ede5f
+* author:	UNDERPOLY Project (https://sketchfab.com/underpolyproject)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "UNDERPOLY: Free Generic Hovercraft" (https://sketchfab.com/3d-models/underpoly-free-generic-hovercraft-46805762e91049b6ab20a737728ede5f) by UNDERPOLY Project (https://sketchfab.com/underpolyproject) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
