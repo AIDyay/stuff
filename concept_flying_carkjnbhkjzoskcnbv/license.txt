@@ -1,0 +1,11 @@
+Model Information:
+* title:	Concept flying car
+* source:	https://sketchfab.com/3d-models/concept-flying-car-ca244a48ef304cf5b141621b1f7fc3ed
+* author:	VertaScan (https://sketchfab.com/VertaScan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Concept flying car" (https://sketchfab.com/3d-models/concept-flying-car-ca244a48ef304cf5b141621b1f7fc3ed) by VertaScan (https://sketchfab.com/VertaScan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
