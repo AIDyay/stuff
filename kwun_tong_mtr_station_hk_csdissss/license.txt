@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kwun Tong MTR Station HK CSDI
+* source:	https://sketchfab.com/3d-models/kwun-tong-mtr-station-hk-csdi-4ae271ef0e4b4e4fa3e7ac9b5b9fa9f4
+* author:	patrick.young (https://sketchfab.com/patrick.young)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kwun Tong MTR Station HK CSDI" (https://sketchfab.com/3d-models/kwun-tong-mtr-station-hk-csdi-4ae271ef0e4b4e4fa3e7ac9b5b9fa9f4) by patrick.young (https://sketchfab.com/patrick.young) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
