@@ -1,0 +1,11 @@
+Model Information:
+* title:	tram
+* source:	https://sketchfab.com/3d-models/tram-2c3a374e69f6410cb82072c460b737fa
+* author:	ПГГПУ (https://sketchfab.com/vrpspu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "tram" (https://sketchfab.com/3d-models/tram-2c3a374e69f6410cb82072c460b737fa) by ПГГПУ (https://sketchfab.com/vrpspu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
